@@ -16,7 +16,7 @@
 
 1. Склонируйте к себе репозиторий 
 ```  
-https://github.com/lazyglitch/QA-may25.git
+git clone https://github.com/lazyglitch/QA-may25.git
 ```  
 
 2. Убедитесь, что на вашем компьютере установлен Python. В командной строке/терминале выполните команду  
